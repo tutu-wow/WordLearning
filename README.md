@@ -1,5 +1,5 @@
 # WordLearning
-英语单词学习系统 计算机毕业设计
+英语单词学习系统    计算机毕业设计
 
 <font style="color:#117cee;">🎈</font><font style="color:#117cee;">系统亮点：基于艾宾浩斯遗忘曲线的智能复习机制、语音朗读、多题型测试与错题自动收录、Echarts图形化分析；</font>
 
